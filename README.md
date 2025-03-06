@@ -31,7 +31,7 @@ django-mss/
 
 1. Cloner le projet :
 ```bash
-git clone <url-du-repo>
+git clone https://github.com/jeremy-vangansberg/simplon-django-azure-sql-server-docker.git
 cd django-mss
 ```
 
